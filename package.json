@@ -28,12 +28,14 @@
     "postcss": "^8.1.7",
     "postcss-loader": "^4.0.4",
     "style-loader": "^2.0.0",
-    "tailwindcss": "^2.0.1",
     "terser-webpack-plugin": "^5.0.3",
     "url-loader": "^4.1.1",
     "webpack": "^5.5.1",
     "webpack-cli": "^4.2.0",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.4.0"
+  },
+  "dependencies": {
+    "full": "^1.0.1"
   }
 }
